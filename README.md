@@ -1,4 +1,4 @@
-## On Panic Actions Project
+## On Panic Project
 
 A collection of tools for help you in panic situations.
 
