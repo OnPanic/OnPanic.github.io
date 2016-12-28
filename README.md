@@ -50,3 +50,7 @@ In preference order:
 - Something to snack while working on the project, no beers, I do not drink. **(pending)**
 
 You can specify which of these points you want your donation to be destined for.
+
+### Can i contact you?
+
+Take a look to my data at [GitHub](https://github.com/arrase)
