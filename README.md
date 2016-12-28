@@ -29,9 +29,11 @@ Propagate the panic signal beyond your mobile device.
 ### Donations and contributions
 
 - Feel free to contribute with code, only two hands here and a lot of work to do :)
-- Feel free to make a donation (BTC): **1KUDR3ebaHUss8gjbx5vCqJ2m9LmC9EbRj**
-- Feel free to make a donation (XMR):
-**4A9nD8vXDpQbA5YicWikNMgwqAHk7TKvF1hS4tZFu9Tw3J4JPHRs581WbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm3yPM7Em**
+- Feel free to make a donation:
+
+(BTC): **1KUDR3ebaHUss8gjbx5vCqJ2m9LmC9EbRj**
+ 
+(XMR): **4A9nD8vXDpQbA5YicWikNMgwqAHk7TKvF1hS4tZFu9Tw3J4JPHRs581WbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm3yPM7Em**
 
 
 ### If I give money, where do you spend it?
