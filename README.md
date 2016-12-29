@@ -6,13 +6,13 @@ A collection of tools for help you in panic situations.
 
 Warn quickly of a panic situation in a safe way.
 
-Learn about [how it works](https://github.com/arrase/PanicTrigger/wiki) or [donwload the APK](https://github.com/arrase/PanicTrigger/releases)
+Learn about [how it works](https://github.com/OnPanic/PanicTrigger/wiki) or [donwload the APK](https://github.com/OnPanic/PanicTrigger/releases)
 
 ### The Action Apps
 
 - Warn to my contacts:
 
-    Work still in progress but you can take a look to the source code [here](https://github.com/arrase/WarnContacts). 
+    Work still in progress but you can take a look to the source code [here](https://github.com/OnPanic/WarnContacts). 
 
 - Secure my private data:
 
