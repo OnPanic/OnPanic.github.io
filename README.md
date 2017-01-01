@@ -30,6 +30,8 @@ Propagate the panic signal beyond your mobile device.
 
 - Feel free to contribute with code, only two hands here and a lot of work to do :)
 - Feel free to make a donation:
+  
+  [On Panic Paypal.Me](https://www.paypal.me/OnPanic)
 
   BTC address:
 
