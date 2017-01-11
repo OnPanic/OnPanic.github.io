@@ -18,7 +18,7 @@ Learn about [how it works](https://github.com/OnPanic/PanicTrigger/wiki) or [don
 
     Work still in progress but you can take a look to the source code [here](https://github.com/OnPanic/DeleteFiles).
 
-### The middleware project (...work not yet started)
+### Panic Ripple: The middleware project (...work not yet started)
 
 Propagate the panic signal beyond your mobile device.
 
