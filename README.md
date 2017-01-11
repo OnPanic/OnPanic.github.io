@@ -14,9 +14,9 @@ Learn about [how it works](https://github.com/OnPanic/PanicTrigger/wiki) or [don
 
     Work still in progress but you can take a look to the source code [here](https://github.com/OnPanic/WarnContacts). 
 
-- Secure my private data:
+- Delete my private data:
 
-    Work not yet started.
+    Work still in progress but you can take a look to the source code [here](https://github.com/OnPanic/DeleteFiles).
 
 ### The middleware project (...work not yet started)
 
