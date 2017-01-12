@@ -6,7 +6,7 @@ A collection of tools for help you in panic situations.
 
 Warn quickly of a panic situation in a safe way.
 
-Learn about [how it works](https://github.com/OnPanic/PanicTrigger/wiki) or [donwload the APK](https://github.com/OnPanic/PanicTrigger/releases)
+Learn about [how it works](https://github.com/OnPanic/PanicTrigger/wiki) or [donwload a pre-release APK](https://github.com/OnPanic/PanicTrigger/releases)
 
 ### The Action Apps
 
@@ -16,7 +16,7 @@ Learn about [how it works](https://github.com/OnPanic/PanicTrigger/wiki) or [don
 
 - Delete my private data:
 
-    Work still in progress but you can take a look to the source code [here](https://github.com/OnPanic/DeleteFiles).
+    Work still in progress but you can take a look to the source code [here](https://github.com/OnPanic/DeleteFiles) or [download a pre-release APK](https://github.com/OnPanic/DeleteFiles/releases)
 
 ### Panic Ripple: The middleware project (...work not yet started)
 
