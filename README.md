@@ -12,7 +12,8 @@ Learn about [how it works](https://github.com/OnPanic/PanicTrigger/wiki) or [don
 
 - Warn to my contacts:
 
-    Work still in progress but you can take a look to the source code [here](https://github.com/OnPanic/WarnContacts). 
+    Work still in progress but you can take a look to the source code [here](https://github.com/OnPanic/WarnContacts) or [download a pre-release APK](https://github.com/OnPanic/WarnContacts/releases
+) 
 
 - Delete my private data:
 
