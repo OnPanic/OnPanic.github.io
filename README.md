@@ -77,5 +77,5 @@ In preference order:
 You can specify which of these points you want your donation to be destined for.
 
 ### Can i contact you?
-
-Take a look to my data at [GitHub](https://github.com/arrase)
+- [Facebook Page](https://www.facebook.com/OnPanic/)
+- Take a look to my data at [GitHub](https://github.com/arrase)
