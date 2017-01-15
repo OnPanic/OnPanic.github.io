@@ -22,6 +22,18 @@ Learn about [how it works](https://github.com/OnPanic/PanicTrigger/wiki) or [don
 - Uninstall apps:
 
     Work still in progress but you can take a look to the source code [here](https://github.com/OnPanic/UninstallApps) or [download a pre-release APK](https://github.com/OnPanic/UninstallApps/releases)
+    
+### Hidden Backups
+
+Your private hidden backup service over Tor with Android client.
+
+- Server can be run over Raspberry Pi :)
+- Easy device setup reading a QR (also over ssh)
+
+Work still in progress but you can take a look to the source code:
+
+- [Server source](https://github.com/OnPanic/HiddenBackup-Server)
+
 
 ### Panic Ripple: The middleware project (...work not yet started)
 
