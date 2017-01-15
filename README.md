@@ -18,6 +18,10 @@ Learn about [how it works](https://github.com/OnPanic/PanicTrigger/wiki) or [don
 - Delete my private data:
 
     Work still in progress but you can take a look to the source code [here](https://github.com/OnPanic/DeleteFiles) or [download a pre-release APK](https://github.com/OnPanic/DeleteFiles/releases)
+    
+- Uninstall apps:
+
+    Work still in progress but you can take a look to the source code [here](https://github.com/OnPanic/UninstallApps) or [download a pre-release APK](https://github.com/OnPanic/UninstallApps/releases)
 
 ### Panic Ripple: The middleware project (...work not yet started)
 
