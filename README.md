@@ -10,18 +10,21 @@ Learn about [how it works](https://github.com/OnPanic/PanicTrigger/wiki) or [don
 
 ### The Action Apps
 
-- Warn to my contacts:
+- Warn to my contacts
+- Delete my private data
+- Uninstall apps
 
-    Work still in progress but you can take a look to the source code [here](https://github.com/OnPanic/WarnContacts) or [download a pre-release APK](https://github.com/OnPanic/WarnContacts/releases
-) 
+Work still in progress but you can take a look to the source code:
 
-- Delete my private data:
+- [Warn Contacts](https://github.com/OnPanic/WarnContacts)
+- [Delete Files](https://github.com/OnPanic/DeleteFiles)
+- [Uninstall Apps](https://github.com/OnPanic/UninstallApps)
 
-    Work still in progress but you can take a look to the source code [here](https://github.com/OnPanic/DeleteFiles) or [download a pre-release APK](https://github.com/OnPanic/DeleteFiles/releases)
-    
-- Uninstall apps:
+or download a pre-release APK:
 
-    Work still in progress but you can take a look to the source code [here](https://github.com/OnPanic/UninstallApps) or [download a pre-release APK](https://github.com/OnPanic/UninstallApps/releases)
+- [Warn Contacts](https://github.com/OnPanic/WarnContacts/releases)
+- [Delete Files](https://github.com/OnPanic/DeleteFiles/releases)
+- [Uninstall Apps](https://github.com/OnPanic/UninstallApps/releases)
     
 ### Hidden Backups
 
