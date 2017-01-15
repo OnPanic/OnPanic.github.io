@@ -31,7 +31,7 @@ or download a pre-release APK:
 Your private hidden backup service over Tor with Android client.
 
 - Server can be run over Raspberry Pi :)
-- Easy device setup reading a QR (also over ssh)
+- Easy device setup reading a QR
 
 Work still in progress but you can take a look to the source code:
 
