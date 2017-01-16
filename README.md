@@ -36,7 +36,7 @@ Your private hidden backup service over Tor with Android client.
 Work still in progress but you can take a look to the source code:
 
 - [Server source](https://github.com/OnPanic/HiddenBackup-Server)
-
+- [Android client source](https://github.com/OnPanic/HiddenBackup-Android)
 
 ### Panic Ripple: The middleware project (...work not yet started)
 
