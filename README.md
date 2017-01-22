@@ -10,14 +10,33 @@ Learn about [how it works](https://github.com/OnPanic/PanicTrigger/wiki) or [don
 
 ### The Action Apps
 
-- Warn to my contacts:
+- Warn to my contacts
+- Delete my private data
+- Uninstall apps
 
-    Work still in progress but you can take a look to the source code [here](https://github.com/OnPanic/WarnContacts) or [download a pre-release APK](https://github.com/OnPanic/WarnContacts/releases
-) 
+Work still in progress but you can take a look to the source code:
 
-- Delete my private data:
+- [Warn Contacts](https://github.com/OnPanic/WarnContacts)
+- [Delete Files](https://github.com/OnPanic/DeleteFiles)
+- [Uninstall Apps](https://github.com/OnPanic/UninstallApps)
 
-    Work still in progress but you can take a look to the source code [here](https://github.com/OnPanic/DeleteFiles) or [download a pre-release APK](https://github.com/OnPanic/DeleteFiles/releases)
+or download a pre-release APK:
+
+- [Warn Contacts](https://github.com/OnPanic/WarnContacts/releases)
+- [Delete Files](https://github.com/OnPanic/DeleteFiles/releases)
+- [Uninstall Apps](https://github.com/OnPanic/UninstallApps/releases)
+    
+### Hidden Backups
+
+Your private hidden backup service over Tor with Android client.
+
+- Server can be run over Raspberry Pi :)
+- Easy device setup reading a QR
+
+Work still in progress but you can take a look to the source code:
+
+- [Server source](https://github.com/OnPanic/HiddenBackup-Server)
+- [Android client source](https://github.com/OnPanic/HiddenBackup-Android)
 
 ### Panic Ripple: The middleware project (...work not yet started)
 
@@ -58,5 +77,5 @@ In preference order:
 You can specify which of these points you want your donation to be destined for.
 
 ### Can i contact you?
-
-Take a look to my data at [GitHub](https://github.com/arrase)
+- [Facebook Page](https://www.facebook.com/OnPanic/)
+- Take a look to my data at [GitHub](https://github.com/arrase)
