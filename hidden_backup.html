@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>On Panic</title>
+    <title>Hidden Backup</title>
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
     <link href="css/footer-distributed.css" rel="stylesheet" type="text/css"/>
     <link href="css/custom.min.css" rel="stylesheet" type="text/css"/>
@@ -18,26 +18,27 @@
         </div>
     </div>
 </div>
-<div class="container">
+
+<div class="container col-lg-offset-3">
     <div class="row">
-        <div class="col-md-4">
-            <h2>The Panic Trigger</h2>
-            <p>Warn quickly of a panic situation in a safe way.</p>
-            <p><a class="btn btn-default" href="panic_trigger.html" role="button">View details »</a></p>
-        </div>
-        <div class="col-md-4">
-            <h2>Hidden Backups</h2>
-            <p>Your private hidden backup service over Tor with Android client.</p>
-            <p><a class="btn btn-default" href="hidden_backup.html" role="button">View details »</a></p>
-        </div>
-        <div class="col-md-4">
-            <h2>Panic Ripple</h2>
-            <p>The middleware project: Propagate the panic signal beyond your mobile device.</p>
-            <p><a class="btn btn-default" href="panic_ripple.html" role="button">View details »</a></p>
-        </div>
+
+        <h3 id="hidden-backups">Hidden Backups</h3>
+
+        <p>Your private hidden backup service over Tor with Android client.</p>
+
+        <ul>
+            <li>Server can be run over Raspberry Pi :)</li>
+            <li>Easy device setup reading a QR</li>
+        </ul>
+
+        <p>Work still in progress but you can take a look to the source code:</p>
+
+        <ul>
+            <li><a href="https://github.com/OnPanic/HiddenBackup-Server">Server source</a></li>
+            <li><a href="https://github.com/OnPanic/HiddenBackup-Android">Android client source</a></li>
+        </ul>
     </div>
 </div>
-
 <footer class="footer-distributed">
     <div class="footer-left">
         <h3>Can i contact you?</h3>
